@@ -2,7 +2,7 @@
 
 # 概要
 
-Lv46,47,48 の実力をBPI計算式風に数値化するツールです。
+Lv46,47,48 の実力をBPI風に数値化するツールです。
 
 <img src="https://user-images.githubusercontent.com/9925125/210038837-38867676-a9c7-445f-83db-97077ae6abb2.PNG" width="500">
 
